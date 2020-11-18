@@ -1,5 +1,5 @@
 def stylish_chef
-  best_hairstyle = "Guy Fieri"
+  best_hairstyle ="Guy Fieri"
   return "Martha Stewart"
   "Guy Fieri"
 end
