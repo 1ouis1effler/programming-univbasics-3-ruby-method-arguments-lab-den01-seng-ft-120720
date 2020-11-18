@@ -5,4 +5,4 @@ def a_method(a,b)
   puts "I got #{sum}"
 end
 
-a_method(1,2) 
+a_method(2,3) 
